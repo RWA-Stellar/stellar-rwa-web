@@ -19,8 +19,8 @@ contract on each transfer.
 
 ## Sister repositories
 
-- **Contracts:** https://github.com/RWA-ToolKit/stellar-rwa-contracts
-- **API + Docs:** https://github.com/RWA-ToolKit/stellar-rwa-api-docs
+- **Contracts:** https://github.com/RWA-Stellar/stellar-rwa-contracts
+- **API + Docs:** https://github.com/RWA-Stellar/stellar-rwa-api-docs
 
 ## Stellar integration
 
